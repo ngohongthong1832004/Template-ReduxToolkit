@@ -1,8 +1,8 @@
-import React from 'react';
-import logo from './logo.svg';
-import { Counter } from './features/counter/Counter';
-import './App.css';
-import ListItem from './features/fakeApis/ListItem';
+import React from "react";
+import logo from "./logo.svg";
+import { Counter } from "./features/counter/Counter";
+import "./App.css";
+import ListItem from "./features/fakeApis/countNumber";
 
 function App() {
   return (

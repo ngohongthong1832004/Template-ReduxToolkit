@@ -1,0 +1,1 @@
+export const  GLOBAL_STATE = state => state 
